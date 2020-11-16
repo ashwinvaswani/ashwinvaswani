@@ -21,13 +21,13 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with other researchers and creators
 - 🥅 Goals: Contribute more to Open Source projects 
 
-Personal Webpage: https://bp-gc.in/ashwinvaswani
+**Personal Webpage:** https://bp-gc.in/ashwinvaswani
 
-LinkedIn: https://www.linkedin.com/in/ashwin-vaswani99/
+**LinkedIn:** https://www.linkedin.com/in/ashwin-vaswani99/
 
-Google Scholar: https://scholar.google.com/citations?user=KoncsykAAAAJ&hl=en
+**Google Scholar:** https://scholar.google.com/citations?user=KoncsykAAAAJ&hl=en
 
-E-mail: ashwin.vaswani99@gmail.com
+**E-mail:** ashwin.vaswani99@gmail.com
 
 ### Languages and Tools:
 
