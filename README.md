@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm a senior year undergraduate student at BITS Goa.
+## I'm a final year undergraduate student at BITS Goa.
 - 🔭 I’m currently working on efficeint 3D models in computer vision for Video Understanding and Medical Imaging.
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other researchers and creators
