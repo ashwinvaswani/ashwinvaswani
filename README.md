@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## I'm a Masters Student in Computer Vision at Carnegie Mellon University (CMU)
-- 🔭 I’m currently working on efficeint 3D models in computer vision for Video Understanding and Medical Imaging.
+- 🔭 I’m currently working on efficeint 3D models in computer vision for Video Understanding and 3D reconstruction.
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other researchers and creators
 - 🥅 Goals: Contribute more to Open Source projects 
